@@ -1,4 +1,4 @@
-//1500589 3EP4-42 •ŸŒ´«‹P
+//1500589 3EP4-42 katsuki fukuhara
 
 #include<stdio.h>
 
