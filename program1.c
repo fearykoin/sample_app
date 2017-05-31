@@ -7,5 +7,5 @@ int main(void)
 
 	scanf("%d", &a);	scanf("%d", &b);
 
-	printf("%d + %d = %d\n"a, b, a + b);
+	printf("%d x %d = %d\n"a, b, a * b);
 }
